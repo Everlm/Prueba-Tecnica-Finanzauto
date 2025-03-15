@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "Finanzauto.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "Finanzauto.Application.Dtos.Auth.Request.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "GetStudentByDocumentNumber",
+    "RelativePath": "api/Student/by-document/{documentNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "documentNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "GetStudentById",
+    "RelativePath": "api/Student/by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/Student/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Finanzauto.Application.Dtos.Student.Request.StudentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Student/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "ListSelectStudents",
+    "RelativePath": "api/Student/Select",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "GetStudentsPaginated",
+    "RelativePath": "api/Student/students/list-paginated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/Student/Update/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Finanzauto.Application.Dtos.Student.Request.StudentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Finanzauto.API.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/User/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Finanzauto.Application.Dtos.User.Request.RegisterUserRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

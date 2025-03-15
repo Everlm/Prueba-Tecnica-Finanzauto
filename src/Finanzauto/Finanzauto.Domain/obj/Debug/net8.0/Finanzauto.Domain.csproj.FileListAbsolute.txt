@@ -1,0 +1,11 @@
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\bin\Debug\net8.0\Finanzauto.Domain.deps.json
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\bin\Debug\net8.0\Finanzauto.Domain.dll
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\bin\Debug\net8.0\Finanzauto.Domain.pdb
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.AssemblyInfoInputs.cache
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.AssemblyInfo.cs
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.dll
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\refint\Finanzauto.Domain.dll
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\Finanzauto.Domain.pdb
+C:\Users\Ever\source\repos\Finanzauto\Finanzauto.Domain\obj\Debug\net8.0\ref\Finanzauto.Domain.dll
